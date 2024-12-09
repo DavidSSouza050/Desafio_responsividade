@@ -1,0 +1,29 @@
+#primary{
+  padding-block: 1.25rem;
+
+  & div:nth-child(2){
+    justify-self: center;
+  }
+
+  & div:nth-child(3){
+    justify-self: end;
+  }
+  
+}
+
+#secondary{
+  overflow-x: scroll;
+  border: solid 1px var(--stroke-color);
+  border-inline: none;
+  justify-content: space-between;
+
+  & a{
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  @media (width >= 80em) {
+    overflow: hidden;
+  }
+
+}
