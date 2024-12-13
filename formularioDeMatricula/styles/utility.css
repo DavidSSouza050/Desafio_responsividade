@@ -1,0 +1,21 @@
+
+.desktop-only{
+  display: initial;
+}
+
+.mobile-only{
+  display: none;
+}
+
+
+@media (width <=  27em) {
+ 
+  .desktop-only{
+    display: none;
+  }
+
+  .mobile-only{
+    display: initial;
+  }
+
+}
