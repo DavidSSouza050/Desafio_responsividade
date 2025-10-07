@@ -16,8 +16,12 @@ O principal objetivo deste repositório é treinar a criação de páginas web r
 
 **Travelgram** – Landing page interativa com layout moderno, utilizando CSS Flexbox e responsividade, simulando um feed de viagens.
 
-⚠️ Para acessar e visualizar os projetos, é necessário clonar o repositório e abrir os arquivos localmente no seu navegador.
+##
 
+⚠️ Para acessar e visualizar os projetos, é necessário clonar o repositório e abrir os arquivos localmente no seu navegador.
+```bash
+  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 ##
 🛠️ Tecnologias Utilizadas
 <div style="display: inline_block"><br> <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div>
