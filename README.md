@@ -10,11 +10,11 @@ O principal objetivo deste repositório é treinar a criação de páginas web r
 ##
 💜 Projetos Incluídos
 
-Formulário de Matrícula – Página com formulário responsivo, focando em inputs, botões e organização de campos para diferentes tamanhos de tela.
+**Formulário de Matrícul** – Página com formulário responsivo, focando em inputs, botões e organização de campos para diferentes tamanhos de tela.
 
-Portal de Notícias – Portal com layout de notícias adaptativo, utilizando CSS Grid para organizar as seções de conteúdo.
+**Portal de Notícias** – Portal com layout de notícias adaptativo, utilizando CSS Grid para organizar as seções de conteúdo.
 
-Travelgram – Landing page interativa com layout moderno, utilizando CSS Flexbox e responsividade, simulando um feed de viagens.
+**Travelgram** – Landing page interativa com layout moderno, utilizando CSS Flexbox e responsividade, simulando um feed de viagens.
 
 ⚠️ Para acessar e visualizar os projetos, é necessário clonar o repositório e abrir os arquivos localmente no seu navegador.
 
