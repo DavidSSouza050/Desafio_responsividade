@@ -10,11 +10,11 @@ O principal objetivo deste repositório é treinar a criação de páginas web r
 ##
 💜 Projetos Incluídos
 
-Projeto 1 – Página inicial com layout adaptativo
+Formulário de Matrícula – Página com formulário responsivo, focando em inputs, botões e organização de campos para diferentes tamanhos de tela.
 
-Projeto 2 – Landing page com imagens e textos responsivos
+Portal de Notícias – Portal com layout de notícias adaptativo, utilizando CSS Grid para organizar as seções de conteúdo.
 
-Projeto 3 – Página interativa com navegação e formulários adaptados
+Travelgram – Landing page interativa com layout moderno, utilizando CSS Flexbox e responsividade, simulando um feed de viagens.
 
 ⚠️ Para acessar e visualizar os projetos, é necessário clonar o repositório e abrir os arquivos localmente no seu navegador.
 
